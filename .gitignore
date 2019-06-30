@@ -11,6 +11,8 @@
 # production
 /build
 
+#youtube key
+/src/apis
 
 # misc
 .DS_Store
